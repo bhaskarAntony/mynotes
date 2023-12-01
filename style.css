@@ -94,3 +94,15 @@
  .theme i:hover{
     background-color: #51515187;
  }
+
+ .input-title{
+   border: none !important;
+   border-bottom: 2px solid #000 !important;
+ }
+ .input-title:focus{
+   box-shadow: none !important;
+ }
+ .notes-card{
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   border-radius: 10px;
+ }
